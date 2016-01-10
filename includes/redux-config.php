@@ -236,7 +236,7 @@ if (!class_exists('Redux_Framework_sample_config')) {
             // ACTUAL DECLARATION OF SECTIONS
 			//CPG
 
-            $response = wp_remote_get('http://api.bootswatch.com/3');
+            $response = wp_remote_get('https://bootswatch.com/api/3.json');
             $body = wp_remote_retrieve_body($response);
             $bootswatch = json_decode($body);
             $bootstrap_options = array('bootstrap' => 'Bootstrap (Original)');
