@@ -1,12 +1,14 @@
-# STAGE - WordPress Theme Framework 
+# STAGE4 - WordPress Theme Framework 
 
-STAGE is a sleek and modern starter theme built with Bootstrap 3.3.2 and designed to be a flexible foundation for quicker WordPress development. This theme is packed with multiple page templates, menu locations, widget areas and some unique features like the off-canvas menu, scrollbar etc. STAGE was built from the ground-up to keep the codebase compact and easy for you to customize. Creating an impressive website with WordPress has never been easier!
+STAGE4 is a sleek and modern starter theme built with Bootstrap 4 and designed to be a flexible foundation for quicker WordPress development. 
 
-#### Live demo: [http://wp.turizon.co.in/](http://wp.turizon.co.in/)
+This theme is packed with multiple page templates, menu locations, widget areas and some unique features like the off-canvas menu, scrollbar etc. STAGE4 is built on STAGE Project from the ground-up to keep the codebase compact and easy for you to customize. Creating an impressive website with WordPress has never been easier!
+
+#### Live demo:  
 
 ## Features
 
-* 12 Column Responsive Layout based on Bootstrap 3.3.2
+* 12 Column Responsive Layout based on Bootstrap 4
 * 2 Homepage layouts - Scrolling Banner & Image Slider
 * 2 Blog layouts - List & Grid with pagination
 * 11 theme styles from Bootswatch
@@ -27,9 +29,9 @@ STAGE is a sleek and modern starter theme built with Bootstrap 3.3.2 and designe
 
 ## Installation & Setup
 
-First you need to [download the latest version](https://github.com/chiraggude/wordpress-bootstrap/archive/master.zip), install the theme and then install the Redux Framework plugin.
+First you need to [download the latest version](https://github.com/w3labz/stage4/archive/master.zip), install the theme and then install the Redux Framework plugin.
 
-There there are two ways to install STAGE:
+There there are two ways to install STAGE4:
 
 #### Manually
 
@@ -46,7 +48,7 @@ There there are two ways to install STAGE:
 
 * After activating the theme, you will see a notice that will prompt you to install the Redux Framework (required for the theme options panel). 
 * Click on "Begin Installing plugin" to download and install the plugin from www.wordpress.org. 
-* After install the plugin, click on "Return to the Dashboard". Now you will see a new panel "STAGE Option" like this [screenshot](https://db.tt/fuAMDrzo). 
+* After install the plugin, click on "Return to the Dashboard". Now you will see a new panel "STAGE4 Option" like this [screenshot](https://db.tt/fuAMDrzo). 
 
 You can now start customizing your theme!
 
@@ -54,7 +56,7 @@ If your wordpress website has content, then jump to the "Get Started" section to
 
 ## Demo Content
 
-If you have installed STAGE on a fresh installation of WordPress, your homepage will look like this [screenshot](https://db.tt/s7QJiMmH). 
+If you have installed STAGE4 on a fresh installation of WordPress, your homepage will look like this [screenshot](https://db.tt/s7QJiMmH). 
 
 **Step 1 -** 
 To replicate the look and feel of the demo, download this [sample-content-xml](https://db.tt/TVQFzjJC) to your desktop. Right click and "save as" to your Desktop
@@ -134,8 +136,8 @@ Add native WordPress support for:
 * Internationalization
 
 ## Built With
-* WordPress 4.1.0
-* Bootstrap 3.3.2
+* WordPress 4x
+* Bootstrap 4
 * MMenu 4.7.5
 * Redux Framework 3.4.1
 * Font Awesome 4.3.0
